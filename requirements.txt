@@ -1,0 +1,5 @@
+faster-whisper==1.2.1
+av<16
+huggingface_hub
+opencc-python-reimplemented
+pyarrow
